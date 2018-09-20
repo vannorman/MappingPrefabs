@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Mapping Helpers Pack/Mapping Helpers Demo Scene.unity
+  isLoaded: 1
+  isActive: 1
